@@ -1,6 +1,3 @@
-## 📖 เอกสารประกอบการสอน (.pdf)
-- [JSON เบื้องต้น (pdf)](https://github.com/kongruksiamza/ebook-for-education)
-
 ## 📢 ติดตามข่าวสารอื่นๆของเราได้ที่
 <div id="badges">
   <a href="https://www.facebook.com/KongRuksiamTutorial" target="_blank">
